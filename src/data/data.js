@@ -9,7 +9,7 @@ export const data = [
   },
   {
     id: 2,
-    name: 'Bacon Cheeseburger',
+    name: 'Cheeseburger',
     category: 'burger',
     image:
       'https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJ1cmdlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=1400&q=60',
@@ -25,7 +25,7 @@ export const data = [
   },
   {
     id: 4,
-    name: 'Loaded Burger',
+    name: ' Burger',
     category: 'burger',
     image:
       'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YnVyZ2Vyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60',
